@@ -1,0 +1,18 @@
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\bin\Release\CourseSmartRipper.exe
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\bin\Release\CourseSmartRipper.pdb
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.FormMain.resources
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.Properties.Resources.resources
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.exe
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.pdb
+D:\Source\CourseSmartRipper\CourseSmartRipper\bin\Release\CourseSmartRipper.exe
+D:\Source\CourseSmartRipper\CourseSmartRipper\bin\Release\CourseSmartRipper.pdb
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.FormMain.resources
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.Properties.Resources.resources
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.exe
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Release\CourseSmartRipper.pdb
