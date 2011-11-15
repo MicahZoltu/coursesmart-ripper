@@ -45,7 +45,7 @@ namespace CourseSmartRipper
 
 		protected override void OnFormClosing(FormClosingEventArgs pEventArgs)
 		{
-			mOutputFileWriter.Close();
+			if (mOutputFileWriter != null) mOutputFileWriter.Close();
 
 			base.OnFormClosing(pEventArgs);
 		}
