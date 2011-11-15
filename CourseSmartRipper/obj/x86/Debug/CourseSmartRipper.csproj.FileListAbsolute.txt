@@ -7,8 +7,6 @@ C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSma
 C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.exe
 C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.pdb
 C:\Users\Micah\Documents\Visual Studio 2010\Projects\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.FormMain.resources
-D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.exe
-D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.pdb
 D:\Source\CourseSmartRipper\CourseSmartRipper\bin\Debug\CourseSmartRipper.exe
 D:\Source\CourseSmartRipper\CourseSmartRipper\bin\Debug\CourseSmartRipper.pdb
 D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\ResolveAssemblyReference.cache
@@ -16,3 +14,5 @@ D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.Fo
 D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.Properties.Resources.resources
 D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.exe
+D:\Source\CourseSmartRipper\CourseSmartRipper\obj\x86\Debug\CourseSmartRipper.pdb

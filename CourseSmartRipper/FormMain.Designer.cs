@@ -39,9 +39,9 @@
 			this.buttonStart = new System.Windows.Forms.Button();
 			this.labelStartingPage = new System.Windows.Forms.Label();
 			this.textBoxStartingPage = new System.Windows.Forms.TextBox();
-			this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
 			this.labelDownloadCounter = new System.Windows.Forms.Label();
 			this.textBoxDownloadCounter = new System.Windows.Forms.TextBox();
+			this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
 			this.tableLayoutPanel1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -52,7 +52,7 @@
 						| System.Windows.Forms.AnchorStyles.Right)));
 			this.tableLayoutPanel1.ColumnCount = 2;
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 100F));
-			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 200F));
+			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 280F));
 			this.tableLayoutPanel1.Controls.Add(this.labelUsername, 0, 0);
 			this.tableLayoutPanel1.Controls.Add(this.labelPassword, 0, 1);
 			this.tableLayoutPanel1.Controls.Add(this.labelBookNumber, 0, 2);
@@ -127,7 +127,6 @@
 			this.textBoxPassword.PasswordChar = '*';
 			this.textBoxPassword.Size = new System.Drawing.Size(274, 20);
 			this.textBoxPassword.TabIndex = 2;
-			this.textBoxPassword.Text = "wguzQ6w6fo";
 			// 
 			// textBoxBookNumber
 			// 
@@ -149,7 +148,6 @@
 			this.textBoxUsername.Name = "textBoxUsername";
 			this.textBoxUsername.Size = new System.Drawing.Size(274, 20);
 			this.textBoxUsername.TabIndex = 1;
-			this.textBoxUsername.Text = "micah@zoltu.net";
 			// 
 			// textBoxOutput
 			// 
@@ -203,10 +201,6 @@
 			this.textBoxStartingPage.TabIndex = 4;
 			this.textBoxStartingPage.Text = "toc01";
 			// 
-			// saveFileDialog
-			// 
-			this.saveFileDialog.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog_FileOk);
-			// 
 			// labelDownloadCounter
 			// 
 			this.labelDownloadCounter.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
@@ -229,6 +223,10 @@
 			this.textBoxDownloadCounter.Name = "textBoxDownloadCounter";
 			this.textBoxDownloadCounter.Size = new System.Drawing.Size(274, 20);
 			this.textBoxDownloadCounter.TabIndex = 11;
+			// 
+			// saveFileDialog
+			// 
+			this.saveFileDialog.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog_FileOk);
 			// 
 			// FormMain
 			// 

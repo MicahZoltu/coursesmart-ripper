@@ -43,7 +43,7 @@ namespace CourseSmartRipper
 			InitializeComponent();
 		}
 
-		protected virtual void OnFormClosing(FormClosingEventArgs pEventArgs)
+		protected override void OnFormClosing(FormClosingEventArgs pEventArgs)
 		{
 			mOutputFileWriter.Close();
 
@@ -256,7 +256,7 @@ namespace CourseSmartRipper
 			mOutputFileWriter.WriteLine("</div>");
 
 			// Get the next page ID.
-			lMatch = Regex.Match(lResponseString, "<input value=\"(?<xml_id>[^\"]*?)\" type=\"hidden\" name=\"\" id=\"Reader_NextXmlId\" />");
+			lMatch = Regex.Match(lResponseString, "<input value=\"(?<xml_id>[^\"]*?)\" type=\"hidden\" name=\"\" id=\"Reader_NextXmlId\"/>");
 			String lXmlID = lMatch.Groups["xml_id"].Value;
 			
 			// If there is no next page then we are done.
@@ -325,7 +325,7 @@ namespace CourseSmartRipper
 		
 		private void WriteImage(String pWidth, String pHeight, String pSource)
 		{
-			mOutputFileWriter.WriteLine("\t<img style=\"width:" + pWidth + "mm; height:" + pHeight + "mm; padding:0; margin:0; border:none;\" src=\"CourseSmartImages/" + pSource + ".jpg\"/>");
+			mOutputFileWriter.WriteLine("\t<img style=\"width:" + pWidth + "mm; height:" + pHeight + "mm; padding:0; margin:0; border:none;\" src=\"" + mOutputDirectory + "/" + pSource + ".jpg\"/>");
 		}
 
 		private delegate void WriteLineDelegate(String pString);
